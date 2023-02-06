@@ -1,0 +1,15 @@
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\bin\Debug\net6.0\Conceitos2.exe
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\bin\Debug\net6.0\Conceitos2.deps.json
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\bin\Debug\net6.0\Conceitos2.runtimeconfig.json
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\bin\Debug\net6.0\Conceitos2.dll
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\bin\Debug\net6.0\Conceitos2.pdb
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\obj\Debug\net6.0\Conceitos2.csproj.AssemblyReference.cache
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\obj\Debug\net6.0\Conceitos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\obj\Debug\net6.0\Conceitos2.AssemblyInfoInputs.cache
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\obj\Debug\net6.0\Conceitos2.AssemblyInfo.cs
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\obj\Debug\net6.0\Conceitos2.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\obj\Debug\net6.0\Conceitos2.dll
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\obj\Debug\net6.0\refint\Conceitos2.dll
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\obj\Debug\net6.0\Conceitos2.pdb
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\obj\Debug\net6.0\Conceitos2.genruntimeconfig.cache
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\Conceitos2\obj\Debug\net6.0\ref\Conceitos2.dll

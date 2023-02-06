@@ -1,0 +1,15 @@
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\bin\Debug\net6.0\ConceitosGravacao.exe
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\bin\Debug\net6.0\ConceitosGravacao.deps.json
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\bin\Debug\net6.0\ConceitosGravacao.runtimeconfig.json
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\bin\Debug\net6.0\ConceitosGravacao.dll
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\bin\Debug\net6.0\ConceitosGravacao.pdb
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\obj\Debug\net6.0\ConceitosGravacao.csproj.AssemblyReference.cache
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\obj\Debug\net6.0\ConceitosGravacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\obj\Debug\net6.0\ConceitosGravacao.AssemblyInfoInputs.cache
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\obj\Debug\net6.0\ConceitosGravacao.AssemblyInfo.cs
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\obj\Debug\net6.0\ConceitosGravacao.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\obj\Debug\net6.0\ConceitosGravacao.dll
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\obj\Debug\net6.0\refint\ConceitosGravacao.dll
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\obj\Debug\net6.0\ConceitosGravacao.pdb
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\obj\Debug\net6.0\ConceitosGravacao.genruntimeconfig.cache
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitosGravacao\obj\Debug\net6.0\ref\ConceitosGravacao.dll

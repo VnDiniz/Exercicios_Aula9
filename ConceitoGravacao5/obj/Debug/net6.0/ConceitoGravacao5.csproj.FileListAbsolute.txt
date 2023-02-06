@@ -1,0 +1,15 @@
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\bin\Debug\net6.0\ConceitoGravacao5.exe
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\bin\Debug\net6.0\ConceitoGravacao5.deps.json
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\bin\Debug\net6.0\ConceitoGravacao5.runtimeconfig.json
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\bin\Debug\net6.0\ConceitoGravacao5.dll
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\bin\Debug\net6.0\ConceitoGravacao5.pdb
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\obj\Debug\net6.0\ConceitoGravacao5.csproj.AssemblyReference.cache
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\obj\Debug\net6.0\ConceitoGravacao5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\obj\Debug\net6.0\ConceitoGravacao5.AssemblyInfoInputs.cache
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\obj\Debug\net6.0\ConceitoGravacao5.AssemblyInfo.cs
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\obj\Debug\net6.0\ConceitoGravacao5.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\obj\Debug\net6.0\ConceitoGravacao5.dll
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\obj\Debug\net6.0\refint\ConceitoGravacao5.dll
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\obj\Debug\net6.0\ConceitoGravacao5.pdb
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\obj\Debug\net6.0\ConceitoGravacao5.genruntimeconfig.cache
+C:\Users\vinicius.reolon\Music\AulaArquivos_Aula09\ConceitoGravacao5\obj\Debug\net6.0\ref\ConceitoGravacao5.dll
